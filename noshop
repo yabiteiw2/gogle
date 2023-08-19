@@ -1,6 +1,6 @@
 ! name: No Shopping
 ! description: Rerank results to remove shopping sites
-! public: true
+! public: false
 ! author: rkeroowe
 ! avatar: #de0320
 
