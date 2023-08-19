@@ -1,4 +1,4 @@
-name: No Shopping
+! name: No Shopping
 ! description: Rerank results to remove shopping sites
 ! public: true
 ! author: rkeroowe
